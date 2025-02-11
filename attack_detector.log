@@ -1,0 +1,32 @@
+2024-12-02 17:49:31 [INFO] Starting DDoS detection.
+2024-12-02 17:50:14 [WARNING] Potential SYN Flood attack detected from IP: 192.168.0.106. Requests: 101
+2024-12-02 17:51:05 [WARNING] Potential UDP Flood attack detected from IP: 192.168.0.101. Requests: 101
+2024-12-02 17:51:37 [WARNING] Potential SYN Flood attack detected from IP: 192.168.0.106. Requests: 375
+2024-12-02 17:52:08 [WARNING] Potential UDP Flood attack detected from IP: 192.168.0.101. Requests: 123
+2024-12-03 03:15:53 [INFO] Starting DDoS detection.
+2024-12-04 08:16:12 [INFO] Starting DDoS detection.
+2024-12-04 08:16:34 [WARNING] Potential UDP Flood attack detected from IP: 192.168.0.101. Requests: 101
+2024-12-04 08:16:42 [WARNING] Potential SYN Flood attack detected from IP: 192.168.0.106. Requests: 101
+2024-12-04 08:16:45 [WARNING] Potential ICMP Flood attack detected from IP: 192.168.0.107. Requests: 101
+2024-12-04 08:17:35 [WARNING] Potential UDP Flood attack detected from IP: 192.168.0.101. Requests: 193
+2024-12-04 08:17:45 [WARNING] Potential ICMP Flood attack detected from IP: 192.168.0.107. Requests: 1104
+2024-12-04 08:18:06 [WARNING] Potential SYN Flood attack detected from IP: 192.168.0.106. Requests: 2774
+2024-12-04 08:18:38 [WARNING] Potential UDP Flood attack detected from IP: 192.168.0.101. Requests: 234
+2024-12-04 08:18:47 [WARNING] Potential ICMP Flood attack detected from IP: 192.168.0.107. Requests: 1104
+2024-12-04 08:19:39 [WARNING] Potential UDP Flood attack detected from IP: 192.168.0.101. Requests: 305
+2024-12-04 08:19:41 [WARNING] Potential SYN Flood attack detected from IP: 192.168.0.106. Requests: 2777
+2024-12-04 08:19:49 [WARNING] Potential ICMP Flood attack detected from IP: 192.168.0.107. Requests: 1104
+2024-12-04 08:20:30 [WARNING] Potential UDP Flood attack detected from IP: 142.250.182.78. Requests: 101
+2024-12-04 08:20:44 [WARNING] Potential UDP Flood attack detected from IP: 192.168.0.101. Requests: 392
+2024-12-04 08:20:52 [WARNING] Potential ICMP Flood attack detected from IP: 192.168.0.107. Requests: 1104
+2024-12-04 08:20:53 [WARNING] Potential UDP Flood attack detected from IP: 142.250.195.138. Requests: 101
+2024-12-04 08:21:30 [WARNING] Potential UDP Flood attack detected from IP: 142.250.182.78. Requests: 131
+2024-12-04 08:21:44 [WARNING] Potential UDP Flood attack detected from IP: 192.168.0.101. Requests: 432
+2024-12-04 08:21:52 [WARNING] Potential ICMP Flood attack detected from IP: 192.168.0.107. Requests: 1104
+2024-12-04 08:21:53 [WARNING] Potential UDP Flood attack detected from IP: 142.250.195.138. Requests: 110
+2024-12-04 08:22:04 [WARNING] Potential SYN Flood attack detected from IP: 192.168.0.106. Requests: 2882
+2024-12-04 08:22:31 [WARNING] Potential UDP Flood attack detected from IP: 142.250.182.78. Requests: 151
+2024-12-04 08:22:33 [WARNING] Potential UDP Flood attack detected from IP: 142.250.182.42. Requests: 101
+2024-12-04 08:22:47 [WARNING] Potential UDP Flood attack detected from IP: 192.168.0.101. Requests: 480
+2024-12-04 08:22:53 [WARNING] Potential UDP Flood attack detected from IP: 142.250.195.138. Requests: 125
+2024-12-04 08:23:00 [WARNING] Potential ICMP Flood attack detected from IP: 192.168.0.107. Requests: 1104
